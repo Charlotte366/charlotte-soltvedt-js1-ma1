@@ -1,3 +1,4 @@
+/*
 const cats = [
     {
         name: "Blob",
@@ -11,4 +12,18 @@ const cats = [
         age: 21
     }
 ];
+*/
+
+
+//question1
+
+const cat = {
+    complain: function (){
+        console.log("Meow!"); 
+
+    }
+}
+
+cat.complain ();
+
 
